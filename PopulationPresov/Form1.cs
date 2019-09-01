@@ -14,7 +14,7 @@ namespace PopulationPresov
     public partial class Form1 : Form
     {
         private List<Day> listOfDays= new List<Day>();
-        public Document Document;
+        public Document Document= new Document("", );
         public SearchedDocument SearchedDocument;
 
               
@@ -70,6 +70,11 @@ namespace PopulationPresov
         }
 
         private void Form1_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load_2(object sender, EventArgs e)
         {
 
         }
