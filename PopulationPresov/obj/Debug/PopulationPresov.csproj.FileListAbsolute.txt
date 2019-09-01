@@ -1,0 +1,10 @@
+C:\Users\Technik\source\repos\PopulationPresov\PopulationPresov\bin\Debug\PopulationPresov.exe.config
+C:\Users\Technik\source\repos\PopulationPresov\PopulationPresov\bin\Debug\PopulationPresov.exe
+C:\Users\Technik\source\repos\PopulationPresov\PopulationPresov\bin\Debug\PopulationPresov.pdb
+C:\Users\Technik\source\repos\PopulationPresov\PopulationPresov\obj\Debug\PopulationPresov.csprojAssemblyReference.cache
+C:\Users\Technik\source\repos\PopulationPresov\PopulationPresov\obj\Debug\PopulationPresov.Form1.resources
+C:\Users\Technik\source\repos\PopulationPresov\PopulationPresov\obj\Debug\PopulationPresov.Properties.Resources.resources
+C:\Users\Technik\source\repos\PopulationPresov\PopulationPresov\obj\Debug\PopulationPresov.csproj.GenerateResource.cache
+C:\Users\Technik\source\repos\PopulationPresov\PopulationPresov\obj\Debug\PopulationPresov.csproj.CoreCompileInputs.cache
+C:\Users\Technik\source\repos\PopulationPresov\PopulationPresov\obj\Debug\PopulationPresov.exe
+C:\Users\Technik\source\repos\PopulationPresov\PopulationPresov\obj\Debug\PopulationPresov.pdb
